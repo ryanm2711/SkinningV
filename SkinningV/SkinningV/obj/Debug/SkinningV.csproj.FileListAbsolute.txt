@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V\scripts\SkinningV.dll
+C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V\scripts\SkinningV.pdb
+C:\Users\ryan2\source\repos\SkinningV\SkinningV\obj\Debug\SkinningV.csproj.CoreCompileInputs.cache
+C:\Users\ryan2\source\repos\SkinningV\SkinningV\obj\Debug\SkinningV.csproj.CopyComplete
+C:\Users\ryan2\source\repos\SkinningV\SkinningV\obj\Debug\SkinningV.dll
+C:\Users\ryan2\source\repos\SkinningV\SkinningV\obj\Debug\SkinningV.pdb
